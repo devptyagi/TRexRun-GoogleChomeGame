@@ -1,4 +1,4 @@
-# TRexRun-GoogleChomeGame
+# TRexRun-GoogleChromeGame
 Google Chrome Dinosaur Game Clone | JAVA
 
 ## Screenshots:
